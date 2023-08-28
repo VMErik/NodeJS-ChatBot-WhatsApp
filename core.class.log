@@ -1,0 +1,100 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215551389333@s.whatsapp.net',
+    fromMe: false,
+    id: '1BC0C9B732CD6B742624AFF75096B3FB',
+    participant: undefined
+  },
+  messageTimestamp: 1693259332,
+  pushName: 'Erik MA',
+  broadcast: false,
+  message: Message {
+    conversation: 'Estereo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Estereo',
+  from: '5215551389333'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215551389333@s.whatsapp.net',
+    fromMe: false,
+    id: '5721CDD0BB23F1D668CC5257FB31FCB1',
+    participant: undefined
+  },
+  messageTimestamp: 1693259335,
+  pushName: 'Erik MA',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5215551389333'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215551389333@s.whatsapp.net',
+    fromMe: false,
+    id: 'E3E68D431785C8EC0D3E3DA7C6589100',
+    participant: undefined
+  },
+  messageTimestamp: 1693259342,
+  pushName: 'Erik MA',
+  broadcast: false,
+  message: Message {
+    conversation: 'Estereo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Estereo',
+  from: '5215551389333'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215551389333@s.whatsapp.net',
+    fromMe: false,
+    id: '71AE373659D242356B22F55FDC466C4C',
+    participant: undefined
+  },
+  messageTimestamp: 1693259344,
+  pushName: 'Erik MA',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '5215551389333'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215551389333@s.whatsapp.net',
+    fromMe: false,
+    id: '1DAD986EC82A4784CA881FB3466DAD13',
+    participant: undefined
+  },
+  messageTimestamp: 1693259346,
+  pushName: 'Erik MA',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dos',
+  from: '5215551389333'
+}
